@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/CorvusClub/pgp-wordlist-phrase/issues"
   },
-  "homepage": "https://github.com/CorvusClub/pgp-wordlist-phrase#readme"
+  "homepage": "https://github.com/CorvusClub/pgp-wordlist-phrase#readme",
+  "dependencies": {
+    "pgp-word-list": "0.0.1"
+  }
 }
