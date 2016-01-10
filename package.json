@@ -1,0 +1,25 @@
+{
+  "name": "pgp-wordlist-phrase",
+  "version": "1.0.0",
+  "description": "Generate an n-word phrase out of words from the PGP word list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CorvusClub/pgp-wordlist-phrase.git"
+  },
+  "keywords": [
+    "pgp",
+    "phrase",
+    "password",
+    "generator"
+  ],
+  "author": "Tom Shea <tom@shea.at>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CorvusClub/pgp-wordlist-phrase/issues"
+  },
+  "homepage": "https://github.com/CorvusClub/pgp-wordlist-phrase#readme"
+}
